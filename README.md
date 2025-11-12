@@ -1,4 +1,4 @@
--> Trabajo Práctico - Programación Funcional en Java
+-> Trabajo Práctico - Programación Funcional
 
 -> Clases principales
  - Alumno.java: representa un alumno con sus atributos y métodos relacionados.
